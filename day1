@@ -1,0 +1,13 @@
+<!doctype html>
+/*my first website*/
+<html>
+  <head>
+    <title>Practice1</title>
+  </head>
+  <body>
+   <h2 style="background-color:#ff00cc">
+First Day of Project
+</h2>
+    <p>Got to know about the push into git</p>
+  </body>
+</html>
